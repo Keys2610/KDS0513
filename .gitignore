@@ -23,3 +23,6 @@ P5-Data-Science-Capstone/*.ipynb
 # Supplemental materials compendium and additional resources.
 Supplementary-Materials/
 P∞-Extracurricular-Learning/
+
+# Ignore all checkpoint bullshit
+*/.ipynb_checkpoints/
