@@ -25,4 +25,5 @@ Supplementary-Materials/
 P∞-Extracurricular-Learning/
 
 # Ignore all checkpoint bullshit
-*/.ipynb_checkpoints/
+P1-Data-Analysis-and-Engineering/Content/.ipynb_checkpoints/
+P1-Data-Analysis-and-Engineering/Deliverables/.ipynb_checkpoints/
